@@ -13,7 +13,7 @@ Kitoblar is a modern book reading app built with Jetpack Compose and Kotlin, des
 |---|---|
 | <img src="https://github.com/MirzalievPulat/Kitoblar/blob/main/5.jpg?raw=true" width="200"/> | <img src="https://github.com/MirzalievPulat/Kitoblar/blob/main/6.jpg?raw=true" width="200"/> |
 |---|---|
-| <img src="https://github.com/MirzalievPulat/Kitoblar/blob/main/7.jpg?raw=true" width="200"/> | 
+| <img src="https://github.com/MirzalievPulat/Kitoblar/blob/main/7.jpg?raw=true" width="200"/> |  <img src="https://github.com/MirzalievPulat/Kitoblar/blob/main/8.jpg?raw=true" width="200"/> | 
 
 
 ## ✨ Features
