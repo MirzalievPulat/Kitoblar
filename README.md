@@ -43,4 +43,4 @@ Reach me with the help of email(mirzaliyevpolat3105@gmail.com), [telegram](https
 
 ## 📥 Download
 
-You can download the APK file from [here](https://github.com/MirzalievPulat/Kitoblar/raw/main/base.apk)
+You can download the APK file from [here](https://github.com/MirzalievPulat/Kitoblar/raw/main/app-release.apk)
